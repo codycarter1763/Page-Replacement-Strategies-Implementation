@@ -1,16 +1,12 @@
-/**
- * Name: Carter, Cody
- * Email: ccar115@lsu.edu
- * Project: PA-2 (Page Replacement)
- * Instructor: Feng Chen
- * Class: cs4103-sp24
- */
- 
+# Overview
+<h5>This C program emulates page replacement in memory using the FIFO (First In First Out) and LRU (Least Recently Used) replacement strategies. This program allows for user input of the replacement strategy, amount of page references, latency in page swap in and out, and input output file names. This program is meant to be run on a linux server, but can be adapted to any compiler. This is a project that I created while taking Operating Systems. </h5>
+
+
 Instructions For Execution:
 
-1. Navigate to the directory where the proj1.c file is located using "cd prog2".
+1. Navigate to the directory where the filename.c file is located using "cd filename".
 
-2. Type in the command "gcc -o prog2 prog2.c" to compile the code.
+2. Type in the command "gcc -o filename filename.c" to compile the code.
 
 3. To view "input_file_name.txt" that the program reads, type in "vim input_file_name.txt" while in the prog2 directory.
 
