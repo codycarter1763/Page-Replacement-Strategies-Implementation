@@ -20,4 +20,8 @@ Instructions For Execution:
 
 7. Inside "output_file_name.txt", you should see the line number, R or W, input being read, F or H, victim page,
    swap in time, and swap out time.
-   
+
+## Example using FIFO, 2 frames, 10 swap in time, and 20 swap out time
+![Screenshot 2024-09-19 185743](https://github.com/user-attachments/assets/ef633870-6e03-45ac-a021-b1b7dbf5385b)
+
+![Screenshot 2024-09-19 190126](https://github.com/user-attachments/assets/8de6b0f8-f75a-4ba3-a13a-4f34daee1f8b)
